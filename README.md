@@ -3,23 +3,24 @@
 
 ![Mr Bounty](https://github.com/Devkolt/bounty-hunter-demo/assets/97581271/6efe77c2-c925-42dc-b3d8-5dfe08b2c549)
 
-**Bounty Tracker**
 
-**Uses GitHub Issues.**
-"bounty" tagged issues are highlighted on our platform.
-Repository Management
 
-**Auto-forks upon user's bounty participation.**
-Submission Filtering
+GitHub Issues are used as a bounty tracker.
+Issues tagged as "bounty" are tracked and displayed on the site.
+Repo
 
-**Utilizes GitHub CI for initial assessment.**
-User Experience
+The repository is automatically forked upon a user joining the bounty.
+Actions
 
-**Aims for minimal GitHub interaction for users.**
-Bounty Disbursement
+GitHub CI is used as basic filtering for bounty submissions.
+Site Frontend
 
-**Managed on-site once the issue is resolved.**
-Submission Evaluation
+Minimize the user's interaction with the GitHub interface.
 
-Integration of CI (unit tests) and potential LLM tools for pre-human review assessment.
-Streamlined interface for reviewers, with auto-branching and VSCode integration.
+Payment
+
+Payout of the bounty is handled on the site upon closing the issue.
+Evaluation
+
+Automate the evaluation of submissions using CI (unit tests) and other tools (maybe LLMs?) to rate the responses before human review.
+Create a clean interface for code reviewers (automatic branching and open code in VSCode).
