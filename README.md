@@ -1,5 +1,8 @@
 ***Bugs for Cash***
- <img src="https://github.com/Devkolt/bounty-hunter-demo/assets/97581271/d88fd392-e8da-46b2-bf99-e2400fdead93" width="130" height="130"</img>
+
+
+![Mr Bounty](https://github.com/Devkolt/bounty-hunter-demo/assets/97581271/6efe77c2-c925-42dc-b3d8-5dfe08b2c549)
+
 **Bounty Tracker**
 
 **Uses GitHub Issues.**
